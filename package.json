@@ -10,28 +10,28 @@
     "json-server": "json-server  ./server/db.js --watch --ro --delay 200 --middlewares ./server/middleware.js"
   },
   "dependencies": {
-    "core-js": "^3.21.1",
-    "vue": "^2.6.14"
+    "core-js": "^3.24.0",
+    "vue": "^2.7.8"
   },
   "devDependencies": {
-    "@babel/core": "^7.17.9",
-    "@vue/cli-plugin-babel": "~5.0.4",
-    "@vue/cli-plugin-eslint": "~5.0.4",
-    "@vue/cli-plugin-unit-jest": "~5.0.4",
-    "@vue/cli-service": "~5.0.4",
+    "@babel/core": "^7.18.9",
+    "@vue/cli-plugin-babel": "~5.0.8",
+    "@vue/cli-plugin-eslint": "~5.0.8",
+    "@vue/cli-plugin-unit-jest": "~5.0.8",
+    "@vue/cli-service": "~5.0.8",
     "@vue/eslint-config-prettier": "^7.0.0",
     "@vue/test-utils": "1.2.2",
-    "@vue/vue2-jest": "^27.0.0-alpha.4",
+    "@vue/vue2-jest": "^27.0.0",
     "babel-eslint": "^10.0.3",
     "babel-jest": "^27.5.1",
     "babel-loader": "^8.2.4",
     "babel-preset-vue": "^2.0.2",
     "eslint": "^7.32.0",
-    "eslint-plugin-prettier": "^4.0.0",
+    "eslint-plugin-prettier": "^4.2.1",
     "eslint-plugin-vue": "^8.6.0",
     "json-server": "^0.17.0",
-    "prettier": "^2.6.2",
-    "vue-template-compiler": "^2.6.14"
+    "prettier": "^2.7.1",
+    "vue-template-compiler": "^2.7.8"
   },
   "eslintConfig": {
     "root": true,
