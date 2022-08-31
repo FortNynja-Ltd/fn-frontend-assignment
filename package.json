@@ -10,7 +10,6 @@
     "json-server": "json-server  ./server/db.js --watch --ro --delay 200 --middlewares ./server/middleware.js"
   },
   "dependencies": {
-    "core-js": "^3.24.1",
     "vue": "^2.7.10"
   },
   "devDependencies": {
